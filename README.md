@@ -21,7 +21,7 @@
 |---|---|---|
 | [**On-Device-SENA**](https://github.com/Ooohje/On-Device-SENA) | 서버·로그인 없이 휴대폰에서만 동작하는 영어회화·발음 평가 앱 | React Native · WavLM · Gemma 3 4B · Whisper |
 | [**SENA**](https://github.com/Ooohje/SENA) · [site](https://ooohje.github.io/SENA/) | SENA 영어 발화 평가 서비스 소개 웹사이트 | JavaScript |
-| [**ShadoWay-2026**](https://github.com/Ooohje/ShadoWay-2026) · [site](https://ooohje.github.io/ShadoWay-2026/) | 그림자를 계산해 그늘 우선 경로를 추천 — 🏆 2025 대구 빅데이터 활용 경진대회 본선 | Python · Dijkstra |
+| [**ShadoWay-2026**](https://github.com/Ooohje/ShadoWay-2026) · [site](https://ooohje.github.io/ShadoWay-2026/) | 그림자를 계산해 그늘 우선 경로를 추천 — 🏆 2025 대구 빅데이터 활용 경진대회 대구광역시장상 | Python · Dijkstra |
 | [**Public-Shadoway**](https://github.com/Ooohje/Public-Shadoway) | RunnerWay — 경사도와 신호등을 피하는 러너 맞춤 경로 안내 | Python |
 | [**DCR**](https://github.com/Ooohje/DCR) | 스마트폰 가속도 센서·GPS로 아동 납치 감지 — 📄 KCI 논문 | Android · Java |
 | [**GiniCall**](https://github.com/Ooohje/GiniCall) | 🏆 대경권 공공데이터 활용 경진대회 우수작 | Android · Java |
