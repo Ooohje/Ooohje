@@ -2,7 +2,7 @@
 
 **SW Engineer at Samsung Electronics (MX)** · Mobile Engineering, Kyungpook National University · 2024 Student President
 
-모바일과 온디바이스 AI로, 서버 없이도 사람에게 바로 쓸모 있는 서비스를 만듭니다.
+모바일과 AI로, 사용자들에게 쓸모 있는 서비스를 만드는 것에 관심이 있습니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
