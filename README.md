@@ -1,6 +1,6 @@
 # Hi, I'm Jeseok Oh (오제석) 👋
 
-**삼성전자 MX사업부 Language AI팀 AI Engineer** · Mobile Engineering, Kyungpook National University · 2024 Student President
+**AI Engineer @ 삼성전자 MX사업부 Language AI팀** · 경북대학교 모바일공학전공 · 2024 Student President
 
 모바일과 AI로, 사용자들에게 쓸모 있는 서비스를 만드는 것에 관심이 있습니다.
 
@@ -39,6 +39,7 @@
 | Project | 한 줄 소개 |
 |---|---|
 | [KNU_Job_Fair_QnA](https://github.com/Ooohje/KNU_Job_Fair_QnA) · [site](https://ooohje.github.io/KNU_Job_Fair_QnA/) | 강연 중 QR로 접속하는 익명 Q&A 웹앱 |
+| [genz-lab-Photo-Booth](https://github.com/Ooohje/genz-lab-Photo-Booth) | 갤럭시 탭·폰을 인생네컷 포토부스로 만드는 웹앱 — QR로 사진·움직이는 영상 저장 (2026 GALAXY IDEATHON) |
 | [genz-lab-2026-q3-workshop](https://github.com/Ooohje/genz-lab-2026-q3-workshop) · [site](https://ooohje.github.io/genz-lab-2026-q3-workshop/) | 사내 워크샵용 실시간 팀 게임 웹앱 (Kahoot 대체) |
 | [Trend-Letter](https://github.com/Ooohje/Trend-Letter) | 텔레그램 요청으로 트렌드 뉴스레터를 만드는 Claude Code 에이전트 |
 | [Trend-Sensing](https://github.com/Ooohje/Trend-Sensing) | 트렌드 데이터 수집·분석 파이프라인 |
@@ -46,4 +47,4 @@
 
 ## 🧩 Problem Solving
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jesuk8628)](https://solved.ac/jesuk8628/)
+[![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=jesuk8628)](https://solved.ac/jesuk8628/)
