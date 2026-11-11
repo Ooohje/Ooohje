@@ -2,7 +2,7 @@
 
 **AI Engineer @ 삼성전자 MX사업부 Language AI팀** · 경북대학교 모바일공학전공 · 2024 Student President
 
-모바일과 AI로, 사용자들에게 유의미한 서비스를 만드는 것에 관심이 있습니다.
+SW로, 사용자들에게 유의미한 서비스를 만드는 것에 관심이 있습니다.
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
