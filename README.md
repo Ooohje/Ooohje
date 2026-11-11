@@ -1,6 +1,6 @@
 # Hi, I'm Jeseok Oh (오제석) 👋
 
-**SW Engineer at Samsung Electronics (MX)** · Mobile Engineering, Kyungpook National University · 2024 Student President
+**삼성전자 MX사업부 Language AI팀 AI Engineer** · Mobile Engineering, Kyungpook National University · 2024 Student President
 
 모바일과 AI로, 사용자들에게 쓸모 있는 서비스를 만드는 것에 관심이 있습니다.
 
