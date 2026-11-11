@@ -15,6 +15,14 @@
 
 ---
 
+## 💼 Career & Education
+
+| 기간 | 소속 |
+|---|---|
+| 2026.12 ~ 현재 | 삼성전자 MX사업부 Language AI팀 · AI Engineer |
+| 2026.03 ~ 2026.11 | 삼성전자 MX사업부 Gen Z Lab. · 경영전략 |
+| 2020 ~ 2026 | 경북대학교 모바일공학전공 |
+
 ## 🚀 Featured Projects
 
 | Project | 한 줄 소개 | Stack |
