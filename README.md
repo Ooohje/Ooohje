@@ -45,9 +45,11 @@ SW로, 사용자들에게 유의미한 서비스를 만드는 것에 관심이 �
 
 | Project | 한 줄 소개 |
 |---|---|
+| [genz-lab-26Q4-workshop-platform](https://github.com/Ooohje/genz-lab-26Q4-workshop-platform) · [site](https://ooohje.github.io/genz-lab-26Q4-workshop-platform/) | Gen Z Lab. 26년 4분기 워크샵 플랫폼 — Knox ID 입장, 진행자 관제에 따라 넘어가는 실시간 워드클라우드(AI 정리) · 석식 투표 · 발표 우수팀 투표 |
+| [genz-lab-26Q3-workshop-platform](https://github.com/Ooohje/genz-lab-26Q3-workshop-platform) · [site](https://ooohje.github.io/genz-lab-26Q3-workshop-platform/) | Gen Z Lab. 26년 3분기 워크샵 플랫폼 — 60명 · 10팀용 실시간 팀 게임 웹앱 (Kahoot 대체) |
+| [genz-lab-9th-Crew-Teaser-Video](https://github.com/Ooohje/genz-lab-9th-Crew-Teaser-Video) | Gen Z Lab. 9기 크루 모집 · 소개 티저 영상 — Claude와 Higgsfield MCP로 만든 제작 과정과 규칙 |
+| [genz-lab-Photo-Booth](https://github.com/Ooohje/genz-lab-Photo-Booth) | Gen Z Lab. 인생네컷 포토부스 — 갤럭시 탭·폰으로 찍고 QR로 사진·움직이는 영상 저장 (2026 GALAXY IDEATHON) |
 | [KNU_Job_Fair_QnA](https://github.com/Ooohje/KNU_Job_Fair_QnA) · [site](https://ooohje.github.io/KNU_Job_Fair_QnA/) | 강연 중 QR로 접속하는 익명 Q&A 웹앱 |
-| [genz-lab-Photo-Booth](https://github.com/Ooohje/genz-lab-Photo-Booth) | 갤럭시 탭·폰을 인생네컷 포토부스로 만드는 웹앱 — QR로 사진·움직이는 영상 저장 (2026 GALAXY IDEATHON) |
-| [genz-lab-2026-q3-workshop](https://github.com/Ooohje/genz-lab-2026-q3-workshop) · [site](https://ooohje.github.io/genz-lab-2026-q3-workshop/) | 사내 워크샵용 실시간 팀 게임 웹앱 (Kahoot 대체) |
 | [Trend-Letter](https://github.com/Ooohje/Trend-Letter) | 텔레그램 요청으로 트렌드 뉴스레터를 만드는 Claude Code 에이전트 |
 | [Trend-Sensing](https://github.com/Ooohje/Trend-Sensing) | 트렌드 데이터 수집·분석 파이프라인 |
 | [Sool-Sool-Card-2](https://github.com/Ooohje/Sool-Sool-Card-2) | 술술카드 2 Android 앱 |
